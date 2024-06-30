@@ -9,7 +9,7 @@
 
 ## 💻 Tech Stack
 
-Writing Code in
+⌨ Writing Code in
 <!-- shields: https://shields.io/docs/logos  logos:https://simpleicons.org/ -->
 [![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Batch](https://img.shields.io/badge/Batch-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
@@ -37,7 +37,7 @@ Writing Code in
 [![XAML](https://img.shields.io/badge/xaml-%230c54c2.svg?style=for-the-badge&logo=xaml&logoColor=ffffff)](https://en.wikipedia.org/wiki/XAML)
 [![YAML](https://img.shields.io/badge/yaml-%23cb171e.svg?style=for-the-badge&logo=yaml&logoColor=ffffff)](https://en.wikipedia.org/wiki/YAML)
 
-Using
+📝 Using
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
@@ -46,13 +46,13 @@ Using
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
-Storing in
+💾 Storing in
 
 [![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)](https://subversion.apache.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-Targeting
+🎯 Targeting
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Commodore 64](https://img.shields.io/badge/C--64-1E2A4E?style=for-the-badge&logo=commodore&logoColor=white)
@@ -60,7 +60,9 @@ Targeting
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Contact me on
+## 💡 Personal
+
+✉ Contact me on
 
 [![CodeProject](https://img.shields.io/badge/CodeProject-FF9900?style=for-the-badge&logo=codeproject&logoColor=white)](https://www.codeproject.com/Members/hawkynt)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/Hawkynt)
@@ -68,11 +70,11 @@ Contact me on
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hawkynt-grundmann-41414a247/)
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Hawkynt_Grundmann)
 
-Donate
+💸 Donate
 
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/paypalme/hawkynt/15)
 
-## Statistics
+## 📊 Statistics
 ![Hawkynt's Stats](https://github-readme-stats.vercel.app/api?username=Hawkynt&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![Hawkynt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hawkynt&theme=default&hide_border=false)
 
