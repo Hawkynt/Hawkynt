@@ -68,6 +68,10 @@ Contact me on
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hawkynt-grundmann-41414a247/)
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Hawkynt_Grundmann)
 
+Donate
+
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/paypalme/hawkynt/15)
+
 ## Statistics
 ![Hawkynt's Stats](https://github-readme-stats.vercel.app/api?username=Hawkynt&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![Hawkynt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hawkynt&theme=default&hide_border=false)
